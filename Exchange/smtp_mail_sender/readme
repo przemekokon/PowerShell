@@ -1,0 +1,5 @@
+Skrypt sprawdzający czy konto ma poprawnie  przypisany adres SMPT.
+
+1. Skrypt czyści plik tekstowy
+2. Jeśli sprawdzanie wygenerowało error to zapisuje to do w/w pliku
+3. Jeśli plik ma zawartość to znaczy, że error wystąpił i wysyła go na dany adres mailowy
